@@ -37,7 +37,7 @@
     <li>To upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the bot or of any related website, other websites, or the Internet</li>
     <li>To collect or track the personal information of licensors from any claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from your use of the bot or your breach of these Terms and Conditions.</li>
 <h2>Governing Law</h2>
-<li>These Terms and Conditions shall be governed by and construed in accordance with the laws of [Your Country], without giving effect to any principles of conflicts of law.</li>
+<li>These Terms and Conditions shall be governed by and construed in accordance with the laws of Canada, without giving effect to any principles of conflicts of law.</li>
 <h2>Changes to Terms and Conditions</h2>
 <li>We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</li>
 <h2>Contact Us</h2>
